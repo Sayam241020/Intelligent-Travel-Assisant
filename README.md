@@ -631,16 +631,3 @@ Next improvements:
 - Add structured LLM evaluation tests for explanation quality.
 
 ---
-
-## Author
-
-| Name | Details |
-| --- | --- |
-| Developer | Sachin Arora |
-| Email | [sachnaror@gmail.com](mailto:sachnaror@gmail.com) |
-| Location | Noida, India |
-| GitHub | [sachnaror](https://github.com/sachnaror) |
-| YouTube | [sachnaror4841](https://www.youtube.com/@sachnaror4841/videos) |
-| Blog | [Medium](https://medium.com/@schnaror) |
-| Website | [about.me/sachin-arora](https://about.me/sachin-arora) |
-| Twitter | [sachinhep](https://twitter.com/sachinhep) |
